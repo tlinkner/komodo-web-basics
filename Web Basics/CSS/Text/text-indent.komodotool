@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "text-indent", 
+  "value": [
+    "text-indent: [[%ask:value:3em]];!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

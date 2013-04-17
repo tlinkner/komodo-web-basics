@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "word-spacing", 
+  "value": [
+    "word-spacing: [[%ask:value:.5em]];!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

@@ -1,0 +1,13 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "definition list", 
+  "value": [
+    "<dl>",
+    "[[%(s:else:)]]",
+    "</dl>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

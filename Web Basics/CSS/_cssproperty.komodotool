@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "_CSS property", 
+  "value": [
+    "[[%ask1:property:color]]: [[%ask2:value:red]];!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false", 
+  "auto_abbreviation": "false"
+}

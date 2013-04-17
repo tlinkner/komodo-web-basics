@@ -1,0 +1,13 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "_CSS selector", 
+  "value": [
+    "[[%ask1:selector:p]] {",
+    "",
+    "}!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false", 
+  "auto_abbreviation": "false"
+}

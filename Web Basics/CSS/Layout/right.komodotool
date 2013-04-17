@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "right", 
+  "value": [
+    "right: [[%ask:value:0]];!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

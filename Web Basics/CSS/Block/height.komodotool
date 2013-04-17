@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "height", 
+  "value": [
+    "height: [[%ask:value:100px]];!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

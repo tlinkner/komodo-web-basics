@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "margin", 
+  "value": [
+    "margin: [[%ask:value:10px]];!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

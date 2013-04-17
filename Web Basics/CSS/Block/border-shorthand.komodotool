@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "border shorthand", 
+  "value": [
+    "border: [[%ask1:width:1px]] [[%ask2:style:solid]] [[%ask3:color:red]];!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

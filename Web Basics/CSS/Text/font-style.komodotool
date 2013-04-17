@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "font-style", 
+  "value": [
+    "font-style: [[%ask:value:normal]];!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "outline shorthand", 
+  "value": [
+    "outline: [[%ask:width:1px]] [[%ask:style:solid]] [[%ask:color:red]];!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

@@ -1,0 +1,19 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "document template", 
+  "value": [
+    "<!DOCTYPE html>",
+    "<html>",
+    "<head>",
+    "<title>Page Title</title>",
+    "</head>",
+    "<body>",
+    "",
+    "</body>",
+    "</html>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

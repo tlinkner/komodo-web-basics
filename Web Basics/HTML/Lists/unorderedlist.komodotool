@@ -1,0 +1,13 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "unordered list", 
+  "value": [
+    "<ul>",
+    "[[%(s:else:)]]",
+    "</ul>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

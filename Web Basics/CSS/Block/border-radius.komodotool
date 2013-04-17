@@ -1,0 +1,15 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "border-radius", 
+  "value": [
+    "-webkit-border-radius: [[%ask1:border-radius:10px]];", 
+    "     -moz-border-radius: [[%ask1]];", 
+    "          border-radius: [[%ask1]];!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false", 
+  "auto_abbreviation": "false"
+}
+
+

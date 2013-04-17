@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "list item", 
+  "value": [
+    "<li>[[%(s:else:)]]</li>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "outline-color", 
+  "value": [
+    "outline-color: [[%ask:value:red]];!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

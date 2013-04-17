@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "font-family", 
+  "value": [
+    "font-family: [[%ask:value:sans-serif]];!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

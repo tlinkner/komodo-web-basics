@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "table data", 
+  "value": [
+    "<td>[[%(s:else:)]]</td>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "width", 
+  "value": [
+    "width: [[%ask:value:100%]];!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

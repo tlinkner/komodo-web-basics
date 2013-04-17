@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "text-transform", 
+  "value": [
+    "text-transform: [[%ask:value:none]];!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "type": "snippet", 
+  "indent_relative": "false", 
+  "auto_abbreviation": "false"
+}

@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "image", 
+  "value": [
+    "<img src=\"[[%ask1:source]]\" alt=\"[[%ask2:alt text]]\">!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false", 
+  "auto_abbreviation": "false"
+}

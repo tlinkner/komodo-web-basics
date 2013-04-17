@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "text-shadow", 
+  "value": [
+    "-webkit-text-shadow: [[%ask1:x-offset:2px]] [[%ask2:y-offset:2px]] [[%ask3:blur:2px]] [[%ask4:color:#999]];", 
+    "     -moz-text-shadow: [[%ask1]] [[%ask2]] [[%ask3]] [[%ask4]];", 
+    "          text-shadow: [[%ask1]] [[%ask2]] [[%ask3]] [[%ask4]];", 
+    "!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false", 
+  "auto_abbreviation": "false"
+}
+
+

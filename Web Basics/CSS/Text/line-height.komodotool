@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "line-height", 
+  "value": [
+    "line-height: [[%ask:value:1.4em]];!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

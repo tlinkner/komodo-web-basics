@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "definition term", 
+  "value": [
+    "<dt>[[%(s:else:)]]</dt>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

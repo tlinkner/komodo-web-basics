@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "stylesheet link", 
+  "value": [
+    "<link rel=\"stylesheet\" href=\"[[%ask1:url]]\" media=\"screen\">!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false", 
+  "auto_abbreviation": "false"
+}

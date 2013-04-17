@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "heading 2", 
+  "value": [
+    "<h2>[[%(s:else:)]]</h2>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

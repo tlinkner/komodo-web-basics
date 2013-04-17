@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "quote", 
+  "value": [
+    "<q>[[%(s:else:)]]</q>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

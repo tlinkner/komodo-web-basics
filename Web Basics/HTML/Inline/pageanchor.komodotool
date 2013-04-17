@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "page anchor", 
+  "value": [
+    "<a id=\"#[[%ask1:anchor name]]\">[[%(s:else:)]]</a>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false", 
+  "auto_abbreviation": "false"
+}
