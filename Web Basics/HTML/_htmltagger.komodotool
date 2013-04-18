@@ -2,7 +2,7 @@
   "keyboard_shortcut": "", 
   "name": "_HTML tagger", 
   "value": [
-    "<[[%ask1:tag:p]]>[[%(s:else:)]]<[[%ask1]]>!@#_currentPos!@#_anchor"
+    "<[[%ask1:tag:p]]>[[%(s:else:)]]</[[%ask1]]>!@#_currentPos!@#_anchor"
   ], 
   "set_selection": "true", 
   "type": "snippet", 
