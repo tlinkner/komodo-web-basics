@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "remove", 
+  "value": [
+    "$(\"[[%tabstop1]]\").remove();!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

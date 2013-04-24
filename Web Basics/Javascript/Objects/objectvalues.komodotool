@@ -1,0 +1,13 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "object with values", 
+  "value": [
+    "object = {", 
+    "  [[%tabstop1:key]] : [[%tabstop2:value]]", 
+    "}!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

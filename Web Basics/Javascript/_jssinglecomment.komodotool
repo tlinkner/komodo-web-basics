@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "_JS single-line comment", 
+  "value": [
+    "// [[%(s:else:)]]!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false", 
+  "auto_abbreviation": "false"
+}
