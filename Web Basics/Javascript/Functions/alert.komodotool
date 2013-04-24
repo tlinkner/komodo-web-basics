@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "alert", 
+  "value": [
+    "alert(\"[[%tabstop2]]\");!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

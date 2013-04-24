@@ -1,0 +1,15 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "if/else", 
+  "value": [
+    "if ([[%tabstop1]]) {", 
+    "   [[%tabstop2]]// Do something ", 
+    "} else {",
+    "   [[%tabstop3]]// Do something else", 
+    "}!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

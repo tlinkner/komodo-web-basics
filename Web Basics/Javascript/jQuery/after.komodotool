@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "after", 
+  "value": [
+    "$(\"[[%tabstop1]]\").after(\"[[%tabstop2]]\");!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "auto_abbreviation": "false"
+}

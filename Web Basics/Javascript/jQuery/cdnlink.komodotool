@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "jQuery CDN link", 
+  "value": [
+    "<script type=\"application/javascript\" src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js\"></script>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false", 
+  "auto_abbreviation": "false"
+}

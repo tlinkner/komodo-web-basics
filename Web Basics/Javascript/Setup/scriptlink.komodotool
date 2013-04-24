@@ -1,0 +1,11 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "script link", 
+  "value": [
+    "<script type="application/javascript" href=\"[[%ask1:url]]\"></script>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "type": "snippet", 
+  "indent_relative": "false", 
+  "auto_abbreviation": "false"
+}
