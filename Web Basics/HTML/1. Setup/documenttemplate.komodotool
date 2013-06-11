@@ -8,7 +8,7 @@
     "<title>Page Title</title>",
     "</head>",
     "<body>",
-    "",
+    "[[%(s:else:)]]",
     "</body>",
     "</html>!@#_currentPos!@#_anchor"
   ], 
